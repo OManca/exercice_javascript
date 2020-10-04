@@ -1,4 +1,4 @@
-let body = document.querySelector('body'); //Sélectionne le body
+ let body = document.querySelector('body'); //Sélectionne le body
  
   //créer fonction1 class 
   function addClass(element, clas) {
